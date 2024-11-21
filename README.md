@@ -75,10 +75,3 @@ print("Sentimento da resenha:", prediction[0])
 ## Licença
 
 Este projeto está licenciado sob a MIT License. Veja o arquivo LICENSE para mais detalhes.
-
-
-
-## Dicas Adicionais:
-Você pode adicionar mais informações sobre o formato do dataset, se necessário, para facilitar o entendimento de quem for rodar o código.
-Incluir exemplos de saída para as métricas de avaliação pode ser interessante para mostrar o desempenho do modelo.
-Se for fazer melhorias no projeto, como a implementação do BERT, seria interessante documentar esses planos no arquivo README para mostrar os próximos passos.
