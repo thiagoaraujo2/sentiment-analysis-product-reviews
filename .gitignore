@@ -16,3 +16,4 @@ __pycache__/
 
 # Ignorar arquivos de modelo treinado
 *.pkl
+ml_env/
