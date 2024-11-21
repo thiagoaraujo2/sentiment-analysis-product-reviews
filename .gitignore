@@ -1,0 +1,18 @@
+# Ignorar diretórios do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos de configuração do editor
+.idea/
+.vscode/
+
+# Ignorar arquivos temporários de Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignorar arquivos de logs
+*.log
+
+# Ignorar arquivos de modelo treinado
+*.pkl

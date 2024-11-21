@@ -1,0 +1,6 @@
+pandas==2.0.3
+nltk==3.8.1
+sklearn==1.2.2
+matplotlib==3.7.1
+joblib==1.2.0
+spellchecker==0.6.2
